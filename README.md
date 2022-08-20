@@ -5,7 +5,7 @@ This is a terminal program with GUI communicating through serial port.
 It can be used to facilitate testing of any cellular (2G/3G/LTE/etc) or any other modems controlled by AT-like commands.
 
 The original program is designed for use in Windows OS,
-but after small modifications it can be used in other OS (sucsessfully tested in Ubuntu 20).
+but after small modifications it can be used in other OS (successfully tested in Ubuntu 20).
 
 To get information about serial ports use "Ports info" button.
 To get list of free serial ports use "Get free ports" button.
