@@ -1,5 +1,5 @@
-# qt-gsm-terminal_windows
-Qt Python serial port GSM terminal with GUI for Windows
+# Qt Python serial port terminal program with GUI for Windows 
+Qt Python serial port terminal program with GUI for Windows
 
 This is a terminal program with GUI communicating through serial port.
 It can be used to facilitate testing of any cellular (2G/3G/LTE/etc) or any other modems controlled by AT-like commands.
